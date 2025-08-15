@@ -1,4 +1,5 @@
 # FirstCycling MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/r-huijts/firstcycling-mcp)](https://archestra.ai/mcp-catalog/r-huijts__firstcycling-mcp)
 
 This is a Model Context Protocol (MCP) server that provides professional cycling data from FirstCycling. It allows you to retrieve comprehensive information about professional cyclists, race results, race details, and historical cycling data.
 
