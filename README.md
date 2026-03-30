@@ -14,6 +14,10 @@ This MCP server offers rich access to professional cycling data, providing tools
 - Analyzing rider performance and career progression
 - Accessing information about cycling teams and competitions
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/r-huijts-firstcycling-mcp).
+
 ## Real-World Use Cases
 
 With this MCP server, you can use Claude to:
